@@ -1,7 +1,7 @@
 ### Ooi, sou o João Pedro 👋
 
 - 🔭 Atualmente sou streamer na twitch
-- 🌱 Estou estudando engenharia mecânica na UERJ e front-end na Alura
+- 🌱 Estou estudando engenharia de software na USS e front-end na Alura
 - 📫 Contate-me pelo email jpcadinelli@gmail.com
 - 😄 Pronomes: ele/dele
 - ⚡ Curiosidade: fique curioso
